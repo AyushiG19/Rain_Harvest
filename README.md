@@ -13,7 +13,7 @@ The idea is to make rain water harvesting mandatory for each one of us so that p
 Also with this we would also be reducing the unemployability in our country.<br/>
 ### The architecture<br/>
 
-![archit](https://user-images.githubusercontent.com/65753342/122569698-a34f6e00-d068-11eb-84b1-46c945ca01c9.PNG)<br/>
+archit.PNG<br/>
 1. The user would first navigate to analyse the weather to optimise and refractor its rain harvesting system.<br/>
 2. Go to choose the type of residential area we live in.<br/>
 3. Get require information on types of rainwater harvesting.(text would be read aloud by watson).<br/>
