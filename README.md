@@ -101,7 +101,7 @@ By our app rain water can easily be conserved plus one can make a good profit to
 
  
 ### Project Roadmap<br/>
-![roadmap](https://user-images.githubusercontent.com/65753342/122586818-be2ade00-d07a-11eb-996b-99281583f402.PNG)
+
 ### Getiting started<br/>
 Get your APi key and Url ready.make sure to implement all the dependencies used.<br/>
 ##### Dependencies<br/>
