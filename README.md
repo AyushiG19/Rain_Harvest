@@ -107,7 +107,7 @@ Get your APi key and Url ready.make sure to implement all the dependencies used.
 ##### Dependencies<br/>
 1.Watson <br/>
 2.Volley <br/>
-### Live Video<br/>
+
 ### Build With<br/>
 1. Watson text to speech synthesis<br/>
 2. OpenWeather map API<br/>
