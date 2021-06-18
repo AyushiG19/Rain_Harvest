@@ -115,6 +115,6 @@ Get your APi key and Url ready.make sure to implement all the dependencies used.
 1. Ayuhsi Gaur<br/>
 2. Sakshi Bhatt<br/>
 3. Titiksha Kalia<br/>
-4. Sajeela Aqueel<br/>
+4. Sajeela Aqeel<br/>
 
 
